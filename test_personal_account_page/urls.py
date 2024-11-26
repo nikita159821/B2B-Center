@@ -1,1 +1,1 @@
-URL = 'https://beta.b2b-center.ru/'
+URL = 'https://beta.b2b-center.ru/app/next/registration/'

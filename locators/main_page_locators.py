@@ -1,5 +1,7 @@
 from selenium.webdriver.common.by import By
 
 
-class LoginButton:
-    login_button = (By.XPATH, '//div[@class="header-main-right"]/a[@id="auth_ajax_modal_trigger"]')
+login_button = (By.XPATH, '//button[@class="cds-theme--cds cds-button__appearance--transparent cds-button__size--sm cds-button--invert-color cds-button core-header-auth__button"]')
+login_input = (By.ID, 'login_control')
+password_input = (By.ID, 'password_control')
+enter_button = (By.ID, 'enter_button')
