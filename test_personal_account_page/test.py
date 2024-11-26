@@ -3,7 +3,7 @@ from pages.personal_account_page import PersonalPage
 
 
 class Test:
-    def test_2(self,browser):
+    def test_2(self, browser):
         test = PersonalPage(browser)
         test.open_catalog()
         time.sleep(5)
