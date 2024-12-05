@@ -1,5 +1,6 @@
 from estimation.calculate import TestCalculation
 
+
 def main():
     calc = TestCalculation()
     calc.input_quantity_case()  # Запрос количества тест-кейсов

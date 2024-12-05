@@ -20,7 +20,7 @@ class TestCalculation:
 
     def calculate_defects(self):
         estimated_defects = self.quantity_case / self.defect_ratios
-        print(f"Приблизительное количество дефектов: {estimated_defects}")
+        print(f"Приблизительное количество дефектов: {int(estimated_defects)}")
         return estimated_defects
 
     def calculate_bug_report_time(self, estimated_defects):
