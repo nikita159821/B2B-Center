@@ -1,7 +1,7 @@
 from selenium.webdriver import ActionChains
 from selenium.webdriver.support import expected_conditions as EC, expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
-from test_personal_account_page.urls import URL, BETA_URL, CATALOG, REGISTR, REQUIREMENTS
+from create_application_page.urls import URL, BETA_URL, CATALOG, REGISTR, REQUIREMENTS
 
 
 class BasePage:
