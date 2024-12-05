@@ -2,6 +2,7 @@ import time
 
 import pyperclip
 
+from create_application_page.urls import BETA_URL
 from pages.base_page import BasePage
 import pyautogui
 from locators.main_page_locators import *
@@ -23,10 +24,6 @@ class PersonalPage(BasePage):
     def login_input_send_keys(self, login):
         self.get_login_input().send_keys(login)
 
-    # Возвращает поле пароль
-    def get_password_input(self):
-        return self.find_element(*password_input)
-
     # Вводим пароль
     def password_input_send_keys(self, password):
         self.get_password_input().send_keys(password)
@@ -34,6 +31,16 @@ class PersonalPage(BasePage):
     # Нажимаем кнпоку "Войти"
     def click_enter_button(self):
         self.click_element(enter_button)
+
+    # Объединённый метод для входа
+    def login(self, login, password):
+        self.login_input_send_keys(login)
+        self.password_input_send_keys(password)
+        self.click_enter_button()
+
+    # Возвращает поле пароль
+    def get_password_input(self):
+        return self.find_element(*password_input)
 
     # Нажимаем кнопку "Личный кабинет"
     def click_lk_button(self):
@@ -91,3 +98,33 @@ class PersonalPage(BasePage):
     # Нажимаем кнопку "Согласовать" в форме подтверждения
     def click_button_approval_form(self):
         self.click_element(button_approval_form)
+
+    # Объединённый метод для выполнения действий
+    def perform_action(self):
+        self.click_button_approval()
+        time.sleep(4)
+        self.click_button_approval_form()
+        time.sleep(4)
+        self.click_button_output_lk()
+        time.sleep(4)
+
+    # Открывает раздел "Товары и услуги"
+    def open_products_and_services(self):
+        self.browser.get(f'{BETA_URL}')
+
+    # Объединённый метод для открытия раздела и создания заявки
+    def open_products_and_services_and_create_request(self):
+        self.browser.get(f'{BETA_URL}')  # Открываем раздел "Товары и услуги"
+        time.sleep(5)
+        self.click_element(button_create_request)  # Нажимаем кнопку "Создать заявку"
+        time.sleep(10)
+        self.click_element(button_list_positions)  # Нажимаем кнопку "Список позиций"
+        time.sleep(2)
+        self.click_element(button_upload_file)  # Нажимаем кнопку "Загрузить из файла"
+        time.sleep(2)
+        self.get_button_upload_file()
+        time.sleep(2)  # Загружаем файл с позицией
+        self.click_button_send_approval()  # Нажимаем кнопку "Отправить на согласование"
+        time.sleep(5)
+        self.click_button_send()  # Нажимаем кнопку "Отправить"
+        time.sleep(7)

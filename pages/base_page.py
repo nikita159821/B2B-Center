@@ -32,9 +32,6 @@ class BasePage:
     def open_catalog(self):
         self.browser.get(f'{URL}{REGISTR}')
 
-    # Открывает раздел "Товары и услуги"
-    def open_products_and_services(self):
-        self.browser.get(f'{BETA_URL}')
 
     # Открывает страницу с РП
     def open_personal_requirements(self):
