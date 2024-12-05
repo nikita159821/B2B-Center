@@ -11,7 +11,8 @@ class TestCalculation:
     def input_quantity_case(self):
         self.quantity_case = int(input("Введите количество шагов всех тест-кейсов: "))
 
-    def format_time(self, total_minutes):
+    @staticmethod
+    def format_time(total_minutes):
         hours = total_minutes // 60
         minutes = total_minutes % 60
         if hours > 0:
