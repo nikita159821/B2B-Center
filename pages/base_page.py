@@ -1,7 +1,7 @@
 from selenium.webdriver import ActionChains
 from selenium.webdriver.support import expected_conditions as EC, expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
-from test_personal_account_page.urls import URL, BETA_URL, CATALOG
+from test_personal_account_page.urls import URL, BETA_URL, CATALOG, REGISTR, REQUIREMENTS
 
 
 class BasePage:
@@ -30,11 +30,15 @@ class BasePage:
 
     # Открываем страницу каталога
     def open_catalog(self):
-        self.browser.get(f'{URL}')
+        self.browser.get(f'{URL}{REGISTR}')
 
     # Открывает раздел "Товары и услуги"
     def open_products_and_services(self):
         self.browser.get(f'{BETA_URL}')
+
+    # Открывает страницу с РП
+    def open_personal_requirements(self):
+        self.browser.get(f'{URL}{REQUIREMENTS}')
 
     # Возвращаем текущую страницу
     def get_current_url(self):
@@ -43,3 +47,8 @@ class BasePage:
     # Открываем страницу
     def open(self, url):
         self.browser.get(url)
+
+    # Общий метод для получения атрибута элемента
+    def get_attribute_of_element(self, locator, attribute):
+        element = self.find(locator)
+        return element.get_attribute(attribute)

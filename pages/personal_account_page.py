@@ -6,6 +6,7 @@ from pages.base_page import BasePage
 import pyautogui
 from locators.main_page_locators import *
 
+
 class PersonalPage(BasePage):
     def __init__(self, browser):
         super().__init__(browser)

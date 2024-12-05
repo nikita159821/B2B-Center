@@ -1,5 +1,6 @@
 import time
 from pages.personal_account_page import PersonalPage
+from pages.requirements_page import RequirementsPage
 from test_personal_account_page.data import LOGIN_PKG, PASSWORD_PGK, LOGIN_PKG_COORDINAT, PASSWORD_PGK_COORDINAT, \
     LOGIN_PKG_COORDINAT_2, PASSWORD_PGK_COORDINAT_2
 
@@ -7,6 +8,7 @@ from test_personal_account_page.data import LOGIN_PKG, PASSWORD_PGK, LOGIN_PKG_C
 class Test:
     def test_2(self, browser):
         test = PersonalPage(browser)
+        test_2 = RequirementsPage(browser)
         test.open_catalog()
         time.sleep(5)
         test.login_button()
@@ -16,7 +18,7 @@ class Test:
         test.click_enter_button()
         time.sleep(2)
         test.open_products_and_services()
-        time.sleep(2)
+        time.sleep(5)
         test.click_button_create_request()
         time.sleep(10)
         test.click_button_list_positions()
@@ -39,7 +41,7 @@ class Test:
         test.click_enter_button()
         time.sleep(3)
         test.open(url_application)
-        time.sleep(20)
+        time.sleep(10)
         test.click_button_approval()
         time.sleep(3)
         test.click_button_approval_form()
@@ -51,8 +53,21 @@ class Test:
         test.click_enter_button()
         time.sleep(3)
         test.open(url_application)
-        time.sleep(20)
+        time.sleep(10)
         test.click_button_approval()
         time.sleep(3)
         test.click_button_approval_form()
         time.sleep(3)
+        test.click_button_output_lk()
+        time.sleep(10)
+        test.login_input_send_keys(LOGIN_PKG)
+        test.password_input_send_keys(PASSWORD_PGK)
+        test.click_enter_button()
+        time.sleep(2)
+        test.open_personal_requirements()
+        time.sleep(10)
+        numbers = test_2.get_number_application()
+        time.sleep(10)
+        if application == numbers:
+            print(numbers)
+        print('Не прокатило не фартануло')
