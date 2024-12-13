@@ -2,6 +2,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.support import expected_conditions as EC, expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 from create_application_page.urls import URL, BETA_URL, CATALOG, REGISTR, REQUIREMENTS
+from migrated_document_page.urls import WEB_SERVICE
 
 
 class BasePage:
@@ -31,6 +32,10 @@ class BasePage:
     # Открываем страницу каталога
     def open_catalog(self):
         self.browser.get(f'{URL}{REGISTR}')
+
+    # Открываем страницу web_service
+    def open_web_service(self):
+        self.browser.get(f'{URL}{WEB_SERVICE}')
 
 
     # Открывает страницу с РП

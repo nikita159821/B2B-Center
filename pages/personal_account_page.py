@@ -1,7 +1,5 @@
 import time
-
 import pyperclip
-
 from create_application_page.urls import BETA_URL
 from pages.base_page import BasePage
 import pyautogui
@@ -32,7 +30,7 @@ class PersonalPage(BasePage):
     def click_enter_button(self):
         self.click_element(enter_button)
 
-    # Объединённый метод для входа
+    # Объединённый метод для входа в ЛК
     def login(self, login, password):
         self.login_input_send_keys(login)
         self.password_input_send_keys(password)
@@ -66,11 +64,13 @@ class PersonalPage(BasePage):
     @staticmethod
     def get_button_upload_file():
         time.sleep(5)  # Дождитесь, пока окно загрузки активируется
-        file_path = r"C:\Users\user\Downloads\Одна позиция на несколько адресов — копия (1) (1).xlsx"
+        file_path = r"C:\Users\user\Downloads\1.2.xlsx"
 
         # Копируем путь в буфер обмена
         test = pyperclip.copy(file_path)
         print(test)
+
+        # Вставляем путь
         pyautogui.hotkey('ctrl', 'v')
         time.sleep(1)  # Задержка перед нажатием Enter
         pyautogui.press('enter')

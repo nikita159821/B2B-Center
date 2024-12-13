@@ -10,3 +10,10 @@ class RequirementsPage(BasePage):
     def get_number_application(self):
         number_application = self.get_attribute_of_element(get_number_application, 'title')
         print(number_application)
+
+    #  Выбираем строку в РП
+    def click_checkbox_requirements(self):
+        self.click_element(checkbox_requirements)
+
+    def test_click(self):
+        self.click_element(test)
