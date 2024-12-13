@@ -1,5 +1,0 @@
-URL = 'https://beta.b2b-center.ru'
-BETA_URL = 'https://beta.pgk-altis.ru/catalog/personal/'
-CATALOG = 'catalog/personal/'
-REGISTR = '/app/next/registration/'
-REQUIREMENTS = '/personal/requirements/?page=1&limit=20'
