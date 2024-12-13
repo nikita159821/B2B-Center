@@ -1,8 +1,11 @@
-import allure
+import os
 import requests
-
+from dotenv import load_dotenv
+import allure
 from API_B2B_Center.test.data import URL
 
+# Загрузка переменных окружения из .env файла
+load_dotenv()
 
 class MigratedDocument:
     def __init__(self):
@@ -10,8 +13,9 @@ class MigratedDocument:
 
     @allure.step('Отправка запроса на миграцию документа')
     def migrated_document(self, payload):
+        token = os.getenv('API_TOKEN')
         headers = {
-            'Authorization': 'Bearer aa75f047af75a1a7337444d5fe27bd91',
+            'Authorization': f'Bearer {token}',
             'Content-Type': 'application/json'
         }
 
