@@ -1,11 +1,11 @@
-import logging
-import requests
 import os
+import requests
+from dotenv import load_dotenv
 import allure
-from api_b2b_center.test.data import URL
+from API_B2B_Center.test.data import URL
 
-logging.basicConfig(level=logging.DEBUG)
-
+# Загрузка переменных окружения из .env файла
+load_dotenv()
 
 class MigratedDocument:
     def __init__(self):
@@ -18,8 +18,8 @@ class MigratedDocument:
             'Authorization': f'Bearer {token}',
             'Content-Type': 'application/json'
         }
-        logging.debug(f"Sending request to: {URL} with headers: {headers} and payload: {payload}")
+
         self.response = requests.post(URL, json=payload, headers=headers)
-        logging.debug(f"Response status: {self.response.status_code}")
-        logging.debug(f"Response body: {self.response.text}")
         return self.response
+
+
