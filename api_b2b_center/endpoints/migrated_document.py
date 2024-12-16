@@ -2,7 +2,7 @@ import os
 import requests
 from dotenv import load_dotenv
 import allure
-from API_B2B_Center.test.data import URL
+from api_b2b_center.test.data import URL
 
 # Загрузка переменных окружения из .env файла
 load_dotenv()
