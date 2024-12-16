@@ -1,8 +1,7 @@
 name: Run Tests
 
 on:
-  workflow_dispatch: # Позволяет запускать рабочий процесс вручную
-
+  workflow_dispatch:
 jobs:
   test:
     runs-on: ubuntu-latest # Выбор операционной системы для выполнения тестов
@@ -14,7 +13,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2 # Устанавливаем Python
       with:
-        python-version: '3.8' # Замените на нужную версию Python
+        python-version: '3.12'
 
     - name: Install dependencies
       run: |
