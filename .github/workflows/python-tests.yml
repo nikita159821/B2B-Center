@@ -23,4 +23,5 @@ jobs:
 
     - name: Run tests
       run: |
+        export PYTHONPATH=.
         pytest API_B2B_Center/test
