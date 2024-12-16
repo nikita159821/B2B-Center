@@ -23,4 +23,4 @@ jobs:
 
     - name: Run tests
       run: |
-        PYTHONPATH=API_B2B_Center pytest # Или вызовите pytest с указанием директории
+        pytest test_migrated_document
