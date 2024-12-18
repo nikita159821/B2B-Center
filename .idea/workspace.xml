@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb55cd3a-f34e-4b70-9479-601ffd2eb7ee" name="Changes" comment="b2b-center" />
+    <list default="true" id="bb55cd3a-f34e-4b70-9479-601ffd2eb7ee" name="Changes" comment="b2b-center">
+      <change beforePath="$PROJECT_DIR$/API_B2B_Center/endpoints/migrated_document.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_B2B_Center/endpoints/migrated_document.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_B2B_Center/test/test_migrated_document.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_B2B_Center/test/test_migrated_document.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734347786980</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="b2b-center">
+      <option name="closed" value="true" />
+      <created>1734520619554</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734520619554</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
