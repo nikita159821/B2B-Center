@@ -1,0 +1,1509 @@
+<changelist name="Uncommitted_changes_before_Update_at_13_12_2024_20_24_[Changes]" date="1734103445856" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_12_2024_20_24_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 13.12.2024 20:24 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/decorator-5.1.1.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/urllib3-2.2.3.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/werkzeug/debug/shared/less.png" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sniffio-1.3.1.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/iniconfig-2.0.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sniffio-1.3.1.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/urllib3-2.2.3.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/activate" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyAutoGUI-0.9.54.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PySocks-1.7.1.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/tomli/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/requests-2.32.3.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pluggy-1.5.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyScreeze-1.0.1.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/h11-0.14.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sniffio-1.3.1.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip-24.3.1.dist-info/REQUESTED" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyRect-0.2.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/MouseInfo-0.1.3.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/packaging-24.2.dist-info/LICENSE.BSD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/six-1.17.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/requests-2.32.3.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/h11/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/packaging-24.2.dist-info/LICENSE.APACHE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sniffio/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/certifi-2024.8.30.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/attrs-24.2.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sortedcontainers-2.4.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyMsgBox-1.0.9.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/python.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/jinja2-3.1.4.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/allure_python_commons-2.13.5.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/typing_extensions-4.12.2.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/urllib3-2.2.3.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/decorator-5.1.1.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/charset_normalizer/md__mypyc.cp312-win_amd64.pyd" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/outcome-1.3.0.post0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio-0.27.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/outcome-1.3.0.post0.dist-info/LICENSE.MIT" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/blinker-1.9.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip-24.3.1.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/werkzeug-3.1.3.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/certifi/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PySocks-1.7.1.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/allure_pytest-2.13.5.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/data-0.4.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/iniconfig/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pycparser-2.22.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/outcome-1.3.0.post0.dist-info/LICENSE.APACHE2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/flask-3.1.0.dist-info/REQUESTED" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/werkzeug-3.1.3.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium/webdriver/common/devtools/v130/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/pip3.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/websocket_client-1.8.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/_cffi_backend.cp312-win_amd64.pyd" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/requests-2.32.3.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytest-8.3.3.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/blinker-1.9.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio-0.27.0.dist-info/LICENSE.MIT" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/packaging-24.2.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/allure_pytest-2.13.5.dist-info/REQUESTED" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/outcome/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/typing_extensions-4.12.2.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/itsdangerous-2.2.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/outcome-1.3.0.post0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sniffio-1.3.1.dist-info/LICENSE.MIT" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/idna-3.10.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyRect-0.2.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytweening-1.2.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/certifi-2024.8.30.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/packaging-24.2.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium/webdriver/common/linux/selenium-manager" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/attrs/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/data-0.4.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/websocket_client-1.8.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pycparser/_c_ast.cfg" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/data-0.4.dist-info/REQUESTED" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyAutoGUI-0.9.54.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium/webdriver/common/devtools/v129/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/click-8.1.7.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/six-1.17.0.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/attrs-24.2.0.dist-info/licenses/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pluggy-1.5.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/allure_pytest-2.13.5.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pycparser-2.22.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio_websocket-0.11.1.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/iniconfig-2.0.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/blinker/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio-0.27.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/attrs-24.2.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/MarkupSafe-3.0.2.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/allure_python_commons-2.13.5.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/click-8.1.7.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/blinker-1.9.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/outcome-1.3.0.post0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium-4.27.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/data-0.4.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/attrs-24.2.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/markupsafe/_speedups.cp312-win_amd64.pyd" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/flask-3.1.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/MarkupSafe-3.0.2.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/werkzeug/debug/shared/console.png" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/outcome-1.3.0.post0.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/_virtualenv.pth" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/cffi-1.17.1.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/packaging-24.2.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio_websocket-0.11.1.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytest-8.3.3.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pyperclip-1.9.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sortedcontainers-2.4.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/platformdirs/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/activate.ps1" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/flask-3.1.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/packaging/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/idna-3.10.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/certifi/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/h11-0.14.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/attr/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyMsgBox-1.0.9.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PySocks-1.7.1.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/cffi-1.17.1.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio_websocket-0.11.1.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/wsproto/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/itsdangerous-2.2.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/decorator-5.1.1.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/MarkupSafe-3.0.2.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/colorama-0.4.6.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytest-8.3.3.dist-info/REQUESTED" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/idna-3.10.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium/webdriver/common/devtools/v85/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/funcsigs-1.0.2.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/packaging-24.2.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/packaging-24.2.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/typing_extensions-4.12.2.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/jinja2-3.1.4.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/click-8.1.7.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyScreeze-1.0.1.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/charset_normalizer/md.cp312-win_amd64.pyd" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/certifi-2024.8.30.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyMsgBox-1.0.9.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/funcsigs-1.0.2.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/MouseInfo-0.1.3.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/idna/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/_pytest/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/resolvelib/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/requests-2.32.3.dist-info/REQUESTED" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytweening-1.2.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyMsgBox-1.0.9.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/iniconfig-2.0.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyRect-0.2.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytweening-1.2.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyGetWindow-0.0.9.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/pytest.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/idna/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sniffio-1.3.1.dist-info/LICENSE.APACHE2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyGetWindow-0.0.9.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PySocks-1.7.1.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sniffio-1.3.1.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/h11-0.14.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/iniconfig-2.0.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio-0.27.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/h11/tests/data/test-file" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pluggy-1.5.0.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/itsdangerous-2.2.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/werkzeug/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/idna-3.10.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/six-1.17.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyGetWindow-0.0.9.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyGetWindow-0.0.9.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium-4.27.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/jinja2-3.1.4.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio_websocket-0.11.1.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/cachecontrol/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/cffi-1.17.1.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyAutoGUI-0.9.54.dist-info/REQUESTED" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/itsdangerous-2.2.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyAutoGUI-0.9.54.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/funcsigs-1.0.2.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/colorama-0.4.6.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/allure_python_commons-2.13.5.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/pydoc.bat" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/py.test.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium-4.27.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pyperclip-1.9.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/websocket/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pluggy-1.5.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sniffio-1.3.1.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/cffi-1.17.1.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/funcsigs-1.0.2.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pyperclip-1.9.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/h11-0.14.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/websocket_client-1.8.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytest-8.3.3.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/activate.bat" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/certifi-2024.8.30.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/certifi-2024.8.30.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/flask-3.1.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio-0.27.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/requests-2.32.3.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/wsproto-1.2.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pyperclip-1.9.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/rich/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip-24.3.1.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/MarkupSafe-3.0.2.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio_websocket-0.11.1.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytest-8.3.3.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/outcome-1.3.0.post0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/colorama-0.4.6.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/packaging/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pycparser-2.22.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytest/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/werkzeug/debug/shared/more.png" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/jinja2-3.1.4.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sortedcontainers-2.4.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/wsproto-1.2.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium/webdriver/common/windows/selenium-manager.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/websocket_client-1.8.0.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/MouseInfo-0.1.3.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/requests-2.32.3.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/wsproto-1.2.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio-0.27.0.dist-info/LICENSE.APACHE2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/blinker-1.9.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium/webdriver/common/macos/selenium-manager" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyRect-0.2.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium/webdriver/common/devtools/v131/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/deactivate.bat" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/activate.nu" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/flask-3.1.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/data-0.4.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytest-8.3.3.dist-info/AUTHORS" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/jinja2/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/markupsafe/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/allure_pytest-2.13.5.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytweening-1.2.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sortedcontainers-2.4.0.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyScreeze-1.0.1.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pytest-8.3.3.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/click/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/pip3.12.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip-24.3.1.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/pip.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyAutoGUI-0.9.54.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/trio-0.27.0.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/colorama-0.4.6.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/flask.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium-4.27.0.dist-info/REQUESTED" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distro/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium-4.27.0.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/flask/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/sortedcontainers-2.4.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/iniconfig-2.0.0.dist-info/licenses/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/certifi/cacert.pem" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/urllib3-2.2.3.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/urllib3/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/pythonw.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/allure_pytest-2.13.5.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pycparser-2.22.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/click-8.1.7.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pycparser-2.22.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/activate.fish" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PySocks-1.7.1.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/pyvenv.cfg" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/websocket_client-1.8.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip-24.3.1.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/werkzeug-3.1.3.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/charset_normalizer/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/six-1.17.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/decorator-5.1.1.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/normalizer.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pluggy-1.5.0.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/wsproto-1.2.0.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pluggy/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/wsdump.exe" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/attrs-24.2.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/cffi-1.17.1.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/truststore/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/wsproto-1.2.0.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/MouseInfo-0.1.3.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/six-1.17.0.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/typing_extensions-4.12.2.dist-info/LICENSE" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/selenium-4.27.0.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/allure_python_commons-2.13.5.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/typing_extensions-4.12.2.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/werkzeug-3.1.3.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/itsdangerous/py.typed" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/PyScreeze-1.0.1.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>
