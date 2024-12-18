@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb55cd3a-f34e-4b70-9479-601ffd2eb7ee" name="Changes" comment="b2b-center">
-      <change beforePath="$PROJECT_DIR$/API_B2B_Center/endpoints/migrated_document.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_B2B_Center/endpoints/migrated_document.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_B2B_Center/test/test_migrated_document.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_B2B_Center/test/test_migrated_document.py" afterDir="false" />
-    </list>
+    <list default="true" id="bb55cd3a-f34e-4b70-9479-601ffd2eb7ee" name="Changes" comment="b2b-center" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

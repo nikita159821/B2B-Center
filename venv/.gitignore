@@ -12,3 +12,5 @@ locators/
 pages/
 * migrated_document_page
 migrated_document_page/
+* env
+env/
