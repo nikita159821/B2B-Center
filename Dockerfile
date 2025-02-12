@@ -19,4 +19,4 @@ ARG GIT_BRANCH
 RUN git clone --depth 1 -b ${GIT_BRANCH} ${GIT_REPO} .
 
 # Команда для запуска тестов
-CMD ["python", "-m", "pytest"]  # Запускаем pytest с помощью python -m
+CMD ["pytest"]  # Запускаем pytest с помощью python -m
