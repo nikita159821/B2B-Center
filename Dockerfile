@@ -18,7 +18,10 @@ ARG GIT_REPO
 ARG GIT_BRANCH
 RUN git clone --depth 1 -b ${GIT_BRANCH} ${GIT_REPO} .
 
-# Выводим содержимое /app
-RUN ls -l /app
+# Записываем вывод в файл
+RUN ls -l /app > /app/output.txt
+
+# Выводим содержимое файла
+RUN cat /app/output.txt
 # Команда для запуска тестов
 CMD ["pytest"]  # Запускаем pytest с помощью python -m
