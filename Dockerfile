@@ -22,4 +22,4 @@ RUN apt-get update && apt-get install -y google-chrome-stable
 # Создайте директорию для результатов
 RUN mkdir allure-results
 
-CMD ["pytest", "B2B-Center/api_b2b_center/test/test_migrated_document.py", "--alluredir=allure-results"]
+CMD ["pytest]
