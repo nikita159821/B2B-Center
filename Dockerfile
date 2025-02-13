@@ -1,27 +1,25 @@
-# Используем базовый образ с Python
-FROM python:3.12
+FROM python
 
-# Устанавливаем зависимости
-RUN pip install --no-cache-dir selenium pytest  # Минимальный набор
-# Скопируйте requirements.txt и установите пакеты
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+# Установите необходимые утилиты, включая git
+RUN apt-get update && apt-get install -y git wget
 
-# Устанавливаем Git
-RUN apt-get update && apt-get install -y git
-
-# Создаем рабочую директорию
+# Создайте директорию для проекта
+RUN mkdir /app
 WORKDIR /app
 
-# Клонируем репозиторий Git
-ARG GIT_REPO
-ARG GIT_BRANCH
-RUN git clone --depth 1 -b ${GIT_BRANCH} ${GIT_REPO} .
+# Клонируйте репозиторий в созданную директорию
+RUN git clone https://github.com/nikita159821/B2B-Center .
 
-# Записываем вывод в файл
-RUN ls -l /app > /app/output.txt
+# Установите зависимости
+COPY requirements.txt .
+RUN pip install -r requirements.txt
 
-# Выводим содержимое файла
-RUN cat /app/output.txt
-# Команда для запуска тестов
-CMD ["pytest"]  # Запускаем pytest с помощью python -m
+# Установите Google Chrome
+RUN wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -
+RUN sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+RUN apt-get update && apt-get install -y google-chrome-stable
+
+# Создайте директорию для результатов
+RUN mkdir allure-results
+
+CMD ["pytest", "B2B-Center/api_b2b_center/test/test_migrated_document.py", "--alluredir=allure-results"]
